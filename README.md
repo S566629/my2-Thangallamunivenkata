@@ -21,6 +21,13 @@ It is a Hill place and not only a beautiful place to view but also a place to re
 2. Finally we reached home safely.
 
 
+* Rice
+* Chicken curry
+* Sweet
+* Curd
+* Pizza
+
+
 
 
 
