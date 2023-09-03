@@ -29,3 +29,46 @@ I am sai kumar and i came from india. I did my Btech in 2017 later i started wor
 >Half finished work generally proves to be labor lost - said by *Abraham Lincoln*
 
 
+***
+
+
+
+## CODE FENCING:
+
+>
+
+```
+
+<<!DOCTYPE html>
+<<html>
+<<body>
+<<h1>Heading</h1>
+<<p>Paragraph</p>
+<</body>
+<</html>
+
+```
+
+
+[Source of stack overflow code](https://stackoverflow.com/questions/26809389/coding-a-simple-website-example-in-html)
+
+
+>
+
+```
+<form action="iframe.php" target="my-iframe" method="post">
+  <label for="text">Some text:</label>
+  <input type="text" name="text" id="text">
+  <input type="submit" value="post">
+</form>
+<iframe name="my-iframe" src="iframe.php"></iframe>
+
+```
+
+
+[Source of css code snippet](https://css-tricks.com/snippets/html/post-data-to-an-iframe/)
+
+
+
+
+
