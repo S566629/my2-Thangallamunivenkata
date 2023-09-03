@@ -15,3 +15,17 @@ I am sai kumar and i came from india. I did my Btech in 2017 later i started wor
 | Carroms |      Its indore game       |       6 hrs              |
 | Chess   | Its very creative game     |       5 hrs              |
 |Football | Its very interesting game  |       4 hrs              |
+
+
+
+
+
+***
+
+### Author Quotes:
+
+>You must be the change you wish to see in the world - said by *Dr.A. P. J. Abdul Kalam's*
+
+>Half finished work generally proves to be labor lost - said by *Abraham Lincoln*
+
+
