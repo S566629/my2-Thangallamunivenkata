@@ -2,12 +2,22 @@
 
 I am sai kumar and i came from india. I did my Btech in 2017 later i started working in different organizations mainly in devops area. <br /> Currently I am pursuing my masters in Computer science in Northwest Missouri state university. I like Playing cricket, chess and carroms and interested in listing slow music and reading books.
 
-* ![MyImage](./sai.png)*
+* ! [SaiImage](./sai.png)*
 
 
 
 ***
 ### List of Sports Recommended to Play:
+
+Here is the list of sports, I would recommend someone to try because sports playing gives happiness and inrease creativity of the brain.
+
+| S.No   |   Sport Name |
+|------- |  ----------- |
+|1       |  Cricket     |
+|2       |  Carroms     |
+|3       |  Chess       |
+|4       |  Football    |
+
 
 |  Sport name | Reason to Recommend | Hours need to spend in week |
 | -------------| -------------------| ---------------------------:|
@@ -17,7 +27,7 @@ I am sai kumar and i came from india. I did my Btech in 2017 later i started wor
 |Football | Its very interesting game  |       4 hrs              |
 
 
-
+Sports table task completed
 
 
 ***
